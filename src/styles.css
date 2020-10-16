@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+  display: block;
+}
+
+.number .num-btn,
+.number .equal {
+  background-color: #363439;
+  color: #ffffff;
+}
+.number .clear {
+  background-color: #a7aab1;
+  color: #ffffff;
+}
+
+.number .operator {
+  background-color: #fe8e00;
+  color: #ffffff;
+}
